@@ -1,0 +1,9 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="6" y="6" width="52" height="52" rx="4" fill="#171B1D"/>
+  <path d="M20 12L24 12L24 52L20 52L20 12Z" fill="#F2E7D7" fill-opacity="0.9"/>
+  <path d="M12 20L52 20L52 24L12 24L12 20Z" fill="#F2E7D7" fill-opacity="0.9"/>
+  <path d="M12 32L52 32L52 36L12 36L12 32Z" fill="#F2E7D7" fill-opacity="0.9"/>
+  <path d="M12 44L52 44L52 48L12 48L12 44Z" fill="#F2E7D7" fill-opacity="0.9"/>
+  <path d="M12 12L52 52H44L12 20V12Z" fill="#C75736"/>
+  <path d="M52 12L12 52H20L52 20V12Z" fill="#C75736" fill-opacity="0.9"/>
+</svg>
